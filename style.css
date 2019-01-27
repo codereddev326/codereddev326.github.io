@@ -43,6 +43,7 @@ header.startup h1 {
 
 .btn {
 	font-family: monospace;
+	position: center;
 }
 
 .btn-success:hover {
