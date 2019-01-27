@@ -43,7 +43,7 @@ header.startup h1 {
 
 .btn {
 	font-family: monospace;
-	position: center;
+	justify-content: center;
 }
 
 .btn-success:hover {
