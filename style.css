@@ -41,6 +41,11 @@ header.startup h1 {
   font-size: 2rem; 
 }
 
+header.startup h3 {
+  font-size: 2rem;
+  color: white;
+}
+
 .btn {
 	font-family: 'Montserrat', sans-serif;
 	display: flex;
