@@ -42,7 +42,7 @@ header.startup h1 {
 }
 
 .btn {
-	font-family: monospace;
+	font-family: 'Montserrat', sans-serif;
 	display: flex;
 	justify-content: center;
 }
@@ -50,4 +50,5 @@ header.startup h1 {
 .btn-success:hover {
 	border-color: white;
 	border-width: 2px;
+	cursor: pointer;
 }
