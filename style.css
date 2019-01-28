@@ -48,8 +48,6 @@ header.startup h3 {
 
 .btn {
 	font-family: 'Montserrat', sans-serif;
-	display: flex;
-	justify-content: center;
 }
 
 .btn-success:hover {
