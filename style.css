@@ -9,11 +9,6 @@ body {
 	font-family: monospace;
 }
 
-.container {
-	display: flex;
-	justify-content: center;
-}
-
 
 hr {
   max-width: 305px;
